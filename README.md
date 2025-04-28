@@ -8,6 +8,8 @@ PrivexBot is a privacy-first AI chatbot platform built with cutting-edge technol
 
 PrivexBot integrates with multiple platforms, including WordPress, Wix, Shopify, and more, to help you engage customers through your website, WhatsApp, Facebook Messenger, Slack, Instagram, and beyond. Automate workflows with Zapier integrations, and it leverages smart contracts to track usage and payments through SNIP-20 tokens, merging AI, decentralized privacy, and monetization in one platform.
 
+PrivexBot combines three key elements: Priv, which stands for privacy, highlighting the platform's privacy-first approach; Ex, which refers to execution, specifically the secure processing enabled by the Trusted Execution Environment (TEE) via Secret Network; and Bot, representing the AI chatbot functionality.
+
 ---
 
 ## How PrivexBot Works: 3 Easy Steps
