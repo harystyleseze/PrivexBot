@@ -2,17 +2,17 @@
 
 **Tagline:**
 
-AI Chatbots Tailored for Your Business – Available 24/7 for Customer Assistance
+Private AI Chatbots Tailored for Your Business – Available 24/7 for Customer Assistance
 
 ---
 
 ### **Project Description**
 
-PrivexBot is a privacy-first AI chatbot platform built on the Secret Network’s cutting-edge technology. Leveraging the power of Trusted Execution Environments (TEEs), it ensures that all data is processed securely and privately. PrivexBot enables businesses to create fully-customizable chatbots for various functions like customer support, sales assistance, and personal assistant roles.
+We intend to build PrivexBot, a privacy-first low code AI chatbot, on the Secret Network’s cutting-edge technology, Secret AI. Leveraging the power of Trusted Execution Environments (TEEs), it ensures that all data is processed securely and privately. PrivexBot enables businesses to create fully-customizable chatbots for various functions like customer support, sales assistance, and personal assistant roles. PrivexBot integrates three core components: privacy (Priv) through a privacy-first design, secure execution (Ex) via Trusted Execution Environment (TEE) on Secret Network, and AI chatbot capabilities (Bot).
 
-With integration into popular platforms like WordPress, Wix, Shopify, and messaging tools such as WhatsApp, Facebook Messenger, and Slack, PrivexBot is designed to be highly accessible. It also supports data import from multiple sources like websites, PDFs, DOCX files, YouTube videos, and Google Sheets, allowing businesses to easily train their bots. Through a user-friendly interface, businesses can deploy their bots without needing any coding skills.
+With integration into popular platforms like WordPress, Wix, Shopify, and messaging tools such as WhatsApp, Facebook Messenger, and Slack, PrivexBot is designed to be highly accessible. It also supports data import from multiple sources like websites, PDFs, DOCX files, YouTube videos, and Google Sheets, allowing businesses to easily train their bots. Through a user-friendly interface, businesses can customize and deploy their bots without needing any coding skills.
 
-The platform also integrates decentralized privacy with SNIP-20 token-based smart contracts to track usage and payments, making it a unique blend of AI, privacy, and blockchain.
+The platform will also integrate secret smart contracts for tracking usage and payments via Secret coin and SNIP-20 tokens, combining the power of AI with decentralized privacy and monetization.
 
 ---
 
@@ -22,26 +22,26 @@ The platform also integrates decentralized privacy with SNIP-20 token-based smar
 Many businesses today struggle with delivering timely and efficient customer support. Traditional systems are either costly or fail to protect sensitive customer data. Additionally, there’s a growing need for scalable, 24/7 support channels that don’t compromise privacy.
 
 **Solution:**  
-PrivexBot solves this problem by offering businesses a customizable, privacy-first AI chatbot platform. The use of Secret Network’s confidential computing ensures that all data remains private and secure while providing scalable, 24/7 automation for customer support, sales, and internal operations. By integrating AI with blockchain, we also enable businesses to automate payments and track usage via SNIP-20 tokens.
+PrivexBot solves this problem by offering businesses a customizable, privacy-first AI chatbot platform. The use of Secret Network’s confidential computing ensures that all data remains private and secure while providing scalable, 24/7 automation for customer support, sales, and internal operations. By integrating AI with blockchain, we also enable businesses to automate payments via SCRT and SNIP-20 tokens or track usage via smart contract on secret network.
 
 ---
 
 ### **Detailed Product Description**
 
-PrivexBot allows businesses to create tailored AI chatbots in three simple steps:
+PrivexBot will allow businesses to create tailored AI chatbots in three simple steps:
 
-1. **Import Data**: Businesses upload content (websites, PDFs, DOCX, YouTube videos, etc.) that PrivexBot’s AI uses to train the chatbot.
+1. **Import Data**: Businesses upload content (website links, PDFs, DOCX, YouTube videos, etc.) that PrivexBot’s AI uses to train the chatbot.
 2. **Customize Your Bot**: Users can personalize the bot’s appearance and responses to align with their branding.
 3. **Deploy Your Bot**: No coding required—users simply copy-paste a line of code or share a link to deploy their bot.
 
-PrivexBot supports integration with platforms like WordPress, Wix, Shopify, Slack, WhatsApp, Instagram, and more. The platform ensures end-to-end security using TEE technology for data privacy. In addition, it includes Zapier integration for automating workflows like CRM updates, form submissions, and appointment bookings.
+PrivexBot will support integration with platforms like WordPress, Wix, Shopify, Slack, WhatsApp, Instagram, and more. The platform ensures end-to-end security using TEE technology for data privacy. In addition, it includes Zapier integration for automating workflows like CRM updates, form submissions, and appointment bookings.
 
 **Key Features:**
 
-- **Privacy by Design**: Using Secret Network's TEE technology to ensure data security.
+- **Privacy by Design**: Using Secret AI Decentralized Confidential Computing solution to ensure data security.
 - **AI Integration**: Allows businesses to train and deploy bots using various content sources.
 - **Cross-Platform Support**: Integrates seamlessly with websites, messaging apps, and more.
-- **Monetization**: Enables businesses to monetize chatbot interactions through SNIP-20 tokens and smart contracts.
+- **Monetization**: Enables businesses to monetize chatbot interactions through SCRT/SNIP-20 tokens and track usage via smart contracts on secret network.
 
 ---
 
@@ -58,7 +58,7 @@ We will promote PrivexBot through targeted social media ads, partnerships with p
 
 ### **Value Capture for Secret Network Ecosystem**
 
-PrivexBot will bring a substantial value to the Secret Network ecosystem by introducing a highly usable and valuable privacy-first application. By integrating decentralized payments through SNIP-20 tokens and using TEE technology for privacy, we will:
+PrivexBot will bring a substantial value to the Secret Network ecosystem by introducing a highly usable and valuable privacy-first application. By integrating decentralized payments through SNIP-20 tokens and using Secret AI Decentralized Confidential Computing solution for privacy, we will:
 
 1. **Increase TVL (Total Value Locked)** by encouraging businesses to stake tokens for bot usage.
 2. **Increase User Adoption**: Offering affordable plans for smaller businesses will drive adoption.
@@ -68,28 +68,27 @@ PrivexBot will bring a substantial value to the Secret Network ecosystem by intr
 
 ### **Team Members**
 
-- **Harrison Eze** - Lead Backend Engineer & AI Specialist
+- **Harrison Eze** - Lead Software Engineer & AI Specialist
 - **Vera Ifebuche** - Frontend Developer (React, UI Logic)
-- **Paul Salawu** - UI/UX Designer
+- **Paul Salawu** - UI/UX Researcher and Designer
 - **Amarachi Cynthia Eze** - Product Designer & Market Researcher
 
 ---
 
-### **Team Website**
+### **Team Portfolio**
 
-- [Harrison's Github](https://github.com/harystyleseze/PrivexBot)
-- [Vera's Github](https://github.com/harystyleseze/PrivexBot)
-- [Paul's Github](https://github.com/harystyleseze/PrivexBot)
-- [Amarachi's Github](https://github.com/harystyleseze/PrivexBot)
+- [Harrison's Github](https://github.com/harystyleseze/PrivexBot) | [Portfolio](https://harystyles.vercel.app/) 
+- [Vera's Github](https://github.com/harystyleseze/PrivexBot) | [Portfolio](https://vera-black.vercel.app/) 
+- [Amarachi's Portfolio](https://www.behance.net/cynthiaeze4151)
 
 ---
 
 ### **Team's Experience**
 
-- **Harrison Eze**: Harrison has 5+ years of experience in backend development and AI. He has worked with blockchain technologies and integrated machine learning algorithms into various decentralized platforms.
-- **Vera Ifebuche**: Vera specializes in frontend development and UI logic with 4+ years of experience in React and other web technologies. She has worked with various SaaS products focused on user experience.
-- **Paul Salawu**: Paul brings 3+ years of experience in UI/UX design, creating seamless and user-friendly interfaces for web and mobile applications.
-- **Amarachi Cynthia Eze**: Amarachi has 4+ years of experience in product design and market research. She has helped design products that address real-world problems and improve user engagement.
+- **Harrison Eze**: Harrison has 3+ years of experience in software development and AI. He has worked with blockchain technologies and integrated machine learning algorithms into various decentralized platforms.
+- **Vera Ifebuche**: Vera specializes in frontend development and UI logic with 2+ years of experience in React and other web technologies. She has worked with various SaaS products focused on user experience.
+- **Paul Salawu**: Paul brings 2+ years of experience in UI/UX research and design, creating seamless and user-friendly interfaces for web and mobile applications.
+- **Amarachi Cynthia Eze**: Amarachi has 3+ years of experience in product design and market research. She has helped design products that address real-world problems and improve user engagement.
 
 We’ve been a team for 2 years, collaborating on various projects, and are now working together to launch PrivexBot.
 
@@ -101,12 +100,13 @@ We’ve been a team for 2 years, collaborating on various projects, and are now 
 
 ---
 
-### **Team Contact Link**
+### **Team Link**
 
-- [Harrison Eze](https://www.linkedin.com/in/harry-eze)
-- [Vera Ifebuche](https://www.linkedin.com/in/vera-ifebuche)
-- [Paul Salawu](https://www.linkedin.com/in/paul-salawu)
-- [Amarachi Cynthia Eze](https://www.linkedin.com/in/amarachi-cynthia-eze)
+- [Harrison Eze](https://www.linkedin.com/in/harrison-eze-dev/) | [Telegram](https://t.me/DevHarystyles)
+- [Vera Ifebuche](https://www.linkedin.com/in/obasivera) | [Telegram](https://t.me/Vera_Ifebuche)
+- [Amarachi Cynthia Eze](https://www.linkedin.com/in/cynthia-eze22/) | [Telegram](https://t.me/cynthiaeze1)
+- [Paul Salawu's Telegram](https://t.me/paulola155)
+
 
 ---
 
@@ -128,7 +128,7 @@ We plan to develop PrivexBot over the course of 6 months, with key milestones as
 - **Milestone 4**: $6,000
 - **Milestone 5**: $8,000
 
-Total: $40,000 (to be distributed in 3 payments upon completion of milestones).
+Total: $40,000.
 
 ---
 
