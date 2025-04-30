@@ -78,11 +78,11 @@ Our growth strategy includes:
 
 PrivexBot will bring a substantial value to the Secret Network ecosystem by introducing a highly usable and valuable privacy-first application. By integrating decentralized payments through SNIP-20 tokens and using Secret AI Decentralized Confidential Computing solution for privacy, we will:
 
-1. **Increase TVL (Total Value Locked)** by encouraging businesses to stake tokens for bot usage, fee models.
+1. **Increase TVL (Total Value Locked)** by encouraging businesses to stake tokens for bot usage, enabling staked SCRT or SNIP-20 tokens for usage-based billing.
 2. **Increase User Adoption**: of SCRT/SNIP-20 tokens, offering affordable plans for smaller businesses will drive adoption.
-3. **Expanding use cases** for Secret AI and SNIP-20 contracts
-4. **Attracting new developers and businesses** into the secret ecosystem. The open-source nature of PrivexBot will attract developers to contribute to its growth, helping foster further innovation on Secret Network.
-
+3. **Increased transactions**: every bot interaction and payment will generate on-chain usage
+4. **Expanding use cases** for Secret AI and SNIP-20 contracts, especially for web3 startups needing privacy-centric AI assistants for DeFi, DAOs, and NFT projects.
+5. **Attracting new developers and businesses** into the secret ecosystem. The open-source nature of PrivexBot will attract developers to contribute to its growth, helping foster further innovation on Secret Network.
 ---
 
 ### **Team Members**
