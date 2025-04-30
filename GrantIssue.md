@@ -74,15 +74,16 @@ Our growth strategy includes:
 
 ---
 
-### **Value Capture for Secret Network Ecosystem**
+### **Value Capture for the Secret Network Ecosystem**
 
-PrivexBot will bring a substantial value to the Secret Network ecosystem by introducing a highly usable and valuable privacy-first application. By integrating decentralized payments through SNIP-20 tokens and using Secret AI Decentralized Confidential Computing solution for privacy, we will:
+PrivexBot will deliver significant value to the Secret Network by offering a practical, privacy-first application that leverages both Secret AI and SNIP-20 tokens. Through this integration, the project will:
 
-1. **Increase TVL (Total Value Locked)** by encouraging businesses to stake tokens for bot usage, enabling staked SCRT or SNIP-20 tokens for usage-based billing.
-2. **Increase User Adoption**: of SCRT/SNIP-20 tokens, offering affordable plans for smaller businesses will drive adoption.
-3. **Increased transactions**: every bot interaction and payment will generate on-chain usage
-4. **Expanding use cases** for Secret AI and SNIP-20 contracts, especially for web3 startups needing privacy-centric AI assistants for DeFi, DAOs, and NFT projects.
-5. **Attracting new developers and businesses** into the secret ecosystem. The open-source nature of PrivexBot will attract developers to contribute to its growth, helping foster further innovation on Secret Network.
+1. **Grow Total Value Locked (TVL)**: Businesses will be incentivized to stake SCRT or SNIP-20 tokens to access bot features, introducing a usage-based billing model that ties directly to token staking.
+2. **Drive Token Adoption**: By offering cost-effective plans for smaller teams and startups, PrivexBot will encourage broader usage of SCRT and SNIP-20 tokens within the ecosystem.
+3. **Boost On-Chain Activity**: Each chatbot interaction and payment will generate on-chain transactions, contributing to measurable network usage.
+4. **Expand Real-World Use Cases**: PrivexBot highlights practical applications of Secret AI and SNIP-20—especially for DeFi platforms, DAOs, and NFT communities seeking privacy-enabled AI tools.
+5. **Attract Developers and Builders**: As an open-source project, PrivexBot invites contributions from developers and startups, promoting ecosystem growth and encouraging innovation on Secret Network.
+
 ---
 
 ### **Team Members**
